@@ -11,7 +11,7 @@ To set up the project, follow these steps:
 
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/your-username/space-debris-detection.git
+git clone https://github.com/Hassona18/space-debris-detection.git
 cd space-debris-detection
 ```
 
